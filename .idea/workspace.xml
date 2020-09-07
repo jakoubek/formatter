@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eefcfa10-0679-4823-80bc-6c946851f5a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/formatter.go" beforeDir="false" afterPath="$PROJECT_DIR$/formatter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,5 +36,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="260" key="Vcs.Push.Dialog.v2" timestamp="1599481469394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="260" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599481469394" />
   </component>
 </project>
