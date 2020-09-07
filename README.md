@@ -20,7 +20,7 @@ formattedNumber := formatter.FormatInteger(number)
 fmt.Println(formattedNumber) // 12.345 
 ```
 
-## Formatting a decimal value (float64)
+### Formatting a decimal value (float64)
 
 ```go
 var number float64 = 12345.25
